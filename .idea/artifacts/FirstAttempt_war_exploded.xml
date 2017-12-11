@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="FirstAttempt:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/FirstAttempt_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="FirstAttempt" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib" />
+          <element id="file-copy" path="E:/谷歌下载/jstl-1.2.jar" />
+          <element id="file-copy" path="E:/Program Files/feiq/Recv Files/day15_jsp和el/资料/jakarta-taglibs-standard-1.1.2/jakarta-taglibs-standard-1.1.2/lib/standard.jar" />
+          <element id="file-copy" path="E:/Program Files/feiq/Recv Files/day18_check/WebContent/WEB-INF/lib/c3p0-0.9.1.2.jar" />
+          <element id="file-copy" path="E:/Program Files/feiq/Recv Files/day18_check/WebContent/WEB-INF/lib/commons-dbutils-1.4.jar" />
+          <element id="file-copy" path="E:/Program Files/feiq/Recv Files/day18_check/WebContent/WEB-INF/lib/c3p0-oracle-thin-extras-0.9.1.2.jar" />
+          <element id="file-copy" path="E:/Program Files/feiq/Recv Files/day18_check/WebContent/WEB-INF/lib/mysql-connector-java-5.1.13-bin.jar" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="FirstAttempt/web/Web" />
+    </root>
+  </artifact>
+</component>
